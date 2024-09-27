@@ -28,36 +28,36 @@ Masukkan teks yang ingin dienkripsi, pilih algoritma, dan program akan memberika
 1. Shift Chiper : Masukkan teks: Yoga
                   Masukkan nilai shift: 3
 
-2. Substitution Cipher : Masukkan teks: anjka
-                         Masukkan kunci: QWERTYUIOPASDFGHJKLZXCVBNM
+2. Substitution Cipher : - Masukkan teks: anjka
+                         - Masukkan kunci: QWERTYUIOPASDFGHJKLZXCVBNM
 
-3. Vigenère Cipher : Masukkan teks: HelloWorld
-                     Masukkan kunci: KEY
+3. Vigenère Cipher : - Masukkan teks: HelloWorld
+                     - Masukkan kunci: KEY
 
-4. Affine Cipher : Masukkan teks: Crypto
-                   Masukkan nilai a: 5
-                   Masukkan nilai b: 8
+4. Affine Cipher : - Masukkan teks: Crypto
+                   - Masukkan nilai a: 5
+                   - Masukkan nilai b: 8
 
-5. Hill Cipher : Masukkan teks: MEET
-                 Masukkan kunci matriks: 2 3 1 4
+5. Hill Cipher : - Masukkan teks: MEET
+                 - Masukkan kunci matriks: 2 3 1 4
 
-6. Transposition Cipher : Masukkan teks: TRANSPOSE
-                          Masukkan urutan: 3 1 4 2
+6. Transposition Cipher : - Masukkan teks: TRANSPOSE
+                          - Masukkan urutan: 3 1 4 2
 
 ## INSTALASI
 1. Kali Linux :
-   python3 --version
-   sudo apt update
-   sudo apt install python3
-   git clone https://github.com/yogaGymn/ScanCipherYogaGymn.git
-   cd ScanCipherYogaGymn
-   python3 cipher_tool.py
+   - python3 --version
+   - sudo apt update
+   - sudo apt install python3
+   - git clone https://github.com/yogaGymn/ScanCipherYogaGymn.git
+   - cd ScanCipherYogaGymn
+   - python3 cipher_tool.py
 
 2. CMD Windows
-   python --version
-   git clone https://github.com/yogaGymn/ScanCipherYogaGymn.git
-   cd ScanCipherYogaGymn
-   python cipher_tool.py
+   - python --version
+   - git clone https://github.com/yogaGymn/ScanCipherYogaGymn.git
+   - cd ScanCipherYogaGymn
+   - python cipher_tool.py
 
 
 
