@@ -23,28 +23,9 @@ Cipher Tool adalah aplikasi berbasis Python yang memungkinkan pengguna untuk men
      ```
    - Ikuti petunjuk di layar untuk mengenkripsi atau mendekripsi pesan.
 
-## Contoh Penggunaan
-Masukkan teks yang ingin dienkripsi, pilih algoritma, dan program akan memberikan output berupa teks yang telah dienkripsi. Untuk mendekripsi, cukup masukkan teks yang terenkripsi dan pilih algoritma yang sama.
-1. Shift Chiper : Masukkan teks: Yoga
-                  Masukkan nilai shift: 3
 
-2. Substitution Cipher : - Masukkan teks: anjka
-                         - Masukkan kunci: QWERTYUIOPASDFGHJKLZXCVBNM
 
-3. Vigenère Cipher : - Masukkan teks: HelloWorld
-                     - Masukkan kunci: KEY
-
-4. Affine Cipher : - Masukkan teks: Crypto
-                   - Masukkan nilai a: 5
-                   - Masukkan nilai b: 8
-
-5. Hill Cipher : - Masukkan teks: MEET
-                 - Masukkan kunci matriks: 2 3 1 4
-
-6. Transposition Cipher : - Masukkan teks: TRANSPOSE
-                          - Masukkan urutan: 3 1 4 2
-
-## INSTALASI
+## INSTALASI REPOSITORY
 1. Kali Linux :
    - python3 --version
    - sudo apt update
@@ -66,5 +47,5 @@ Masukkan teks yang ingin dienkripsi, pilih algoritma, dan program akan memberika
 
 
 
-4. Windows
+
 
